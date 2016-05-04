@@ -1,0 +1,229 @@
+.header{
+width: 900px;
+height: 70px;
+margin:0 auto;
+background: brown;
+}
+.nese{
+padding: 10px;
+float: left;
+}
+.nese button{
+padding: 10px;
+}
+.logo2{
+font-family: arial;
+padding: 10px;
+color: white;
+font-size: 20px;
+text-shadow: 5px 5px 10px black;
+}
+.upload{
+padding: 10px;
+}
+.upload button{
+padding:10px;
+border-radius: 10px;
+}
+.search{
+padding: 10px;
+border-radius: 10px;
+}
+.search input{
+padding: 10px;
+border-radius: 10px;
+}
+.logo span{
+opacity: .6;
+}
+.logo2 span{
+opacity: .7;
+}
+.logo{
+font-family:cursive;
+padding: 20px 20px;
+color: white;
+font-size:25px;
+text-shadow: 5px 5px 10px black;
+}
+.header.logo2{
+width: 20%
+}
+.header div{
+float: left;
+}
+.header .logo {
+width: 20%;
+}
+.header .search{
+width: 20%;
+}
+.header .upload{
+width: 15%;
+}
+.header .nese{
+width: 15%;
+}
+.main{
+width: 900px;
+margin: 0 auto;
+}
+.menu ul{
+margin:0 auto;
+padding: 10px;
+}
+.menu{
+}
+body{
+background-color: brown;
+}
+.navbar {
+margin: 0;
+padding: 0;
+list-style-type: none;
+border-top:1px solid white ;
+border-bottom: 1px solid white;
+}
+.navbar li{
+display: inline;
+}
+.navbar li a{
+padding:22px;
+}
+.kontent{
+width: 900px;
+height: 600px;
+text-decoration: none;
+}
+.footer{
+height: 90px;
+border-top: 1px solid white;
+text-decoration: none;
+}
+div ul li a{
+text-decoration: none;
+color: white;
+}
+.kontent{
+margin-top: 25px;
+}
+.kontent .left{
+float: left;
+}
+
+.kontent .boxRight{
+float:right;
+}
+
+.boxes div{
+margin-right: 5px;
+margin-bottom: 5px;
+}
+.boxes .bigBox{
+height: 250px;
+width: 400px;
+background: #ccc;
+}
+.boxes .smallBox{
+float: left;
+width: 198px;
+height: 159px;
+background-color: black;
+}
+.rightBox{
+height: 135px;
+width: 191px;
+background-color: black;
+}
+.boxes{
+width: 100%;
+}
+.clear{
+clear: both;
+}
+.boxLeft{
+float: left;
+clear:both;
+}
+.boxRight{
+float: right;
+}
+.title h3{
+float: left;
+margin-top: 0px;
+color: white;
+}
+.title h5{
+	float:right;
+	font-size: 20px;
+	margin-left: 200px;
+	margin-top: 0px;
+	color: white;
+}
+
+.title{
+	float:left;
+}
+.boxes1 div{
+margin-right: 5px;
+margin-bottom: 5px;
+}
+.boxes1{
+width: 100%;
+float:right;
+}
+.clear{
+clear: both;
+}
+.right{
+	float: right;
+	    border-bottom: solid white;
+    border-top: solid #E8E5E5;
+    margin-top: -426px;
+}
+
+.boxes1 .smallBox1{
+height: 59px;
+width: 285px;
+border: 2px #808080 solid ;
+}
+.footer img{
+margin:10px;
+width: 30px;
+height: 30px;
+}
+.rightBoxes{
+border-top: 2px white;
+}
+.video{
+text-decoration: none;
+color:white;
+}
+.people{
+text-decoration: none;
+color:white;
+}
+.events{
+text-decoration: none;
+color:white;
+}
+.smallBox1 p{
+padding: 10px;
+margin-top: -70px;
+color: white;
+text-align:right;
+border:50px;
+}
+.clear{
+	clear: both;
+}
+.title1 h4{
+	margin-left: 5px;
+	color: white;
+}
+
+.wiev{
+float: right;
+    margin-top: -36px;
+    color: white;
+}
